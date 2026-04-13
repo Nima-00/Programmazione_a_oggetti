@@ -1,0 +1,58 @@
+A101 [Povo1] [150] [True]
+- [PRO1232958] Proiettore (15/01/2022)
+- [VS38726438] Telecamera (10/10/2021)
+- [DS32092966] LuceEmergenza (12/07/2021)
+- [LAV8547727] Lavagna (10/10/2021)
+- [DS34772647] Estintore (15/11/2022)
+- [DS32092985] Sirena (15/11/2022)
+
+A102 [Povo1] [30] [False]
+- [PRO1232959] Proiettore (15/01/2022)
+- [LAV8547727] Lavagna (10/10/2021)
+- [DS34772647] Estintore (15/11/2022)
+- [DS32092984] Sirena (10/07/2021)
+
+A103 [Povo1] [68] [True]
+- [DS0392085] LuceEmergenza (11/04/2022)
+- [LAV8547723] Lavagna (11/10/2021)
+- [DS398429] Estintore (11/04/2021)
+- [PRO1232955] Proiettore (18/01/2022)
+- [DS0930284] Sirena (11/09/2021)
+
+A104 [Povo1] [45] [False]
+- [DS0318014] Estintore (11/06/2021)
+
+A105 [Povo1] [50] [False]
+- [PRO309234] Proiettore (05/02/2023)
+- [LAV8938195] Lavagna (22/03/2023)
+
+A106 [Povo1] [120] [False]
+- [TG3902883] TavolettaGrafica (29/04/2023)
+- [LAV3892474] Lavagna (12/07/2021)
+- [DS39028484] Estintore (13/04/2022)
+- [DS39829571] Sirena (12/03/2022)
+
+A107 [Povo1] [44] [False]
+- [DS9319841] LuceEmergenza (05/05/2022)
+
+A108 [Povo1] [48] [False]
+
+A109 [Povo1] [34] [False]
+- [DS9039051] Sirena (11/04/2022)
+- [PRO309208] Proiettore (11/05/2023)
+- [DS09032051] LuceEmergenza (14/05/2023)
+
+A110 [Povo1] [21] [False]
+- [PRO309233] Proiettore (03/02/2023)
+- [MIC8492847] Microfono (26/07/2022)
+
+B106 [Povo2] [129] [False]
+- [PRO309244] Proiettore (03/04/2023)
+- [CF3092058] ComputerFisso (11/03/3022)
+
+B107 [Povo2] [200] [False]
+- [VS38726435] Telecamera (10/08/2021)
+- [PRO309243] Proiettore (10/08/2021)
+
+B108 [Povo2] [35] [False]
+

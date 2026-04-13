@@ -1,0 +1,411 @@
+Italy (ITA) | 2 0 1 | 3
+- CentoMetriM (I)
+-- Jacobs Marcell [O]
+-- Tortu Filippo [N]
+- CentoMetriF (I)
+-- Bongiorni Anna [N]
+-- Fontana Vittoria [N]
+- SaltoAltoM (I)
+-- Tamberi Gianmarco [O]
+-- Sottile Stefano [N]
+- FiorettoF (I)
+-- Batini Martina [N]
+-- Errigo Arianna [N]
+-- Volpi Alice [N]
+- TiroArcoF (I)
+-- Rebagliati Chiara [N]
+-- Boari Lucilla [B]
+-- Andreoli Tatiana [N]
+- PallavoloF (S)
+-- Sorokaite Indre [N]
+-- Malinov Ofelia [N]
+-- DeGennaro Monica [N]
+-- Folie Raphaela [N]
+-- Orro Alessia [N]
+-- Bosetti Caterina [N]
+-- Chirichella Cristina [N]
+-- Danesi Anna [N]
+-- Fahr Sarah [N]
+-- Pietrini Elena [N]
+-- Sylla Miryam [N]
+-- Egonu Paola [N]
+- PallavoloM (S)
+-- Kovar Jiri [N]
+-- Vettori Luca [N]
+-- Juantorena Osmany [N]
+-- Giannelli Simone [N]
+-- Zaytsev Ivan [N]
+-- Piano Matteo [N]
+-- Colaci Massimo [N]
+-- Galassi Gianluca [N]
+-- Sbertoli Riccardo [N]
+-- Anzani Simone [N]
+-- Michieletto Alessandro [N]
+-- Lavia Daniele [N]
+
+France (FRA) | 1 1 1 | 3
+- CentoMetriM (I)
+-- Vicaut Jimmy [N]
+- PallavoloM (S)
+-- Chinenyeze Barthelemy [O]
+-- Grebennikov Jenia [O]
+-- Patry Jean [O]
+-- Toniutti Benjamin [O]
+-- Tillie Kevin [O]
+-- Ngapeth Earvin [O]
+-- Brizard Antoine [O]
+-- Boyer Stephen [O]
+-- LeGoff Nicolass [O]
+-- Bultor Daryl [O]
+-- Clevenot Trevor [O]
+-- Louati Yacine [O]
+- TennisTavoloM (I)
+-- Gauzy Simon [N]
+-- Lebesson Emmanuel [N]
+- PallacanestroM (S)
+-- Ntilikina Frank [A]
+-- Luwawu Timothe [A]
+-- Heurtel Thomas [A]
+-- Batum Nicolas [A]
+-- Yabusele Guerschon [A]
+-- Fournier Evan [A]
+-- DeColo Nando [A]
+-- Poirier Vincent [A]
+-- Albicy Andrew [A]
+-- Gobert Rudy [A]
+-- Cornelie Petr [A]
+-- Fall Moustapha [A]
+- PallacanestroF (S)
+-- Fauthoux Marine [B]
+-- Miyem Endene [B]
+-- Chartereau Alexia [B]
+-- Gruda Sandrine [B]
+-- Ciak Helena [B]
+-- Michel Sarah [B]
+-- Vukosavljevic Valeriane [B]
+-- Rupert Iliana [B]
+-- Williams Gabby [B]
+-- Johannes Marine [B]
+-- Duchet Alix [B]
+-- Tchatchouang Diandra [B]
+
+Corea (KOR) | 1 0 0 | 1
+- TiroArcoF (I)
+-- An San [O]
+- SaltoAltoM (I)
+-- Woo Sanghyeok [N]
+
+Ucraina (UKR) | 0 0 0 | 0
+- TiroArcoF (I)
+-- Sichenikova Liddia [N]
+-- Pavlova Anasiasiia [N]
+- SaltoAltoM (I)
+-- Protsenko Andriy [N]
+
+Messico (MEX) | 0 0 0 | 0
+- TiroArcoF (I)
+-- Roman Aida [N]
+
+StatiUniti (USA) | 3 1 0 | 4
+- CentoMetriF (I)
+-- Prandini Jenna [N]
+-- Oliver Javianne [N]
+- TiroArcoF (I)
+-- Kaufhold Casey [N]
+-- Brown Mackenzie [N]
+- CentoMetriM (I)
+-- Kerley Fred [A]
+-- Baker Ronnie [N]
+- SaltoAltoM (I)
+-- McEwen Shelby [N]
+-- Harrison Juvaughn [N]
+-- Sullivan Darryl [N]
+- PallacanestroM (S)
+-- Johnson Keldon [O]
+-- Lavine Zach [O]
+-- Damian Lillard [O]
+-- Durant Kevin [O]
+-- Middleton Khris [O]
+-- Grant Jerami [O]
+-- Tatum Jayson [O]
+-- McGee Javale [O]
+-- Holiday Jrue [O]
+-- Adebayo Bam [O]
+-- Green Draymond [O]
+-- Booker Devin [O]
+- PallacanestroF (S)
+-- Loyd Jewell [O]
+-- Diggins Skylar [O]
+-- Bird Sue [O]
+-- Atkins Ariel [O]
+-- Grey Chelsea [O]
+-- Wilsol Aja [O]
+-- Stewart Breanna [O]
+-- Collier Napheesa [O]
+-- Taurasi Diana [O]
+-- Fowles Sylvia [O]
+-- Charles Tina [O]
+-- Griner Brittney [O]
+- PallavoloF (S)
+-- Hancock Micha [O]
+-- Poulter Jordyn [O]
+-- WongOrantes Justine [O]
+-- Larsen Jordan [O]
+-- Drews Andrea [O]
+-- Thompson Jordan [O]
+-- BartschHackley Michelle [O]
+-- Hill Kimberly [O]
+-- Akinradewo Foluke [O]
+-- Washington Haleigh [O]
+-- Robinson Kelsey [O]
+-- Ogbogu Chiaka [O]
+
+Giappone (JPN) | 0 1 1 | 2
+- TiroArcoF (I)
+-- Nakamura Miki [N]
+-- Yamauchi Azusa [N]
+- CentoMetriM (I)
+-- Yamagata Ryota [N]
+- SaltoAltoM (I)
+-- Eto Takashi [N]
+-- Tobe Naoto [N]
+- TennisTavoloF (I)
+-- Ishikawa Kasumi [N]
+-- Ito Mima [B]
+- FiorettoF (I)
+-- Azuma Rio [N]
+-- Azuma Sera [N]
+-- Ueno Yuka [N]
+- PallacanestroF (S)
+-- Nagaoka Moeko [A]
+-- Tagada Maki [A]
+-- Miyoshi Naho [A]
+-- Michida Rui [A]
+-- Motohashi Nako [A]
+-- Todo Nanako [A]
+-- Hayashi Saki [A]
+-- Mawuli Evelyn [A]
+-- Miyazaki Saori [A]
+-- Miyazawa Yuki [A]
+-- Akaho Himawari [A]
+-- Okoye Monica [A]
+
+Portogallo (POR) | 0 0 0 | 0
+- TennisTavoloM (I)
+-- Apolonia Tiago [N]
+-- Freitas Marcos [N]
+
+ComitatoRusso (ROC) | 0 3 1 | 4
+- TiroArcoF (I)
+-- Osipova Elena [A]
+- SaltoAltoM (I)
+-- Ivanyuk Ilya [N]
+-- Akimenko Mikhail [N]
+- FiorettoF (I)
+-- Deriglazova Inna [A]
+-- Korobeynikova Larisa [B]
+- PallavoloM (S)
+-- Podlesnykh Yaroslav [A]
+-- Volvich Artem [A]
+-- Volkov Dmitry [A]
+-- Iakovlev Ivan [A]
+-- Bogdan Denis [A]
+-- Pankov Pavel [A]
+-- Poletaev Victor [A]
+-- Mikhaylov Maxim [A]
+-- Kliuka Egor [A]
+-- Kurkaev Ilyas [A]
+-- Kobzar Igor [A]
+-- Golubev Valentin [A]
+
+India (IND) | 0 0 0 | 0
+- CentoMetriF (I)
+-- Chand Dutee [N]
+
+Bielorussia (BLR) | 0 0 1 | 1
+- SaltoAltoM (I)
+-- Nabokau Dzmitry [N]
+-- Nedasekau Maksim [B]
+- TiroArcoF (I)
+-- Marusava Hanna [N]
+
+Turchia (TUR) | 0 0 0 | 0
+- TiroArcoF (I)
+-- Anagoz Yasemin [N]
+
+Canada (CAN) | 0 0 0 | 0
+- TiroArcoF (I)
+-- Barrett Stephanie [N]
+- CentoMetriM (I)
+-- DeGrasse Andre [N]
+- TennisTavoloM (I)
+-- Hazin Jeremy [N]
+- SaltoAltoM (I)
+-- Lovett Django [N]
+
+Cina (CHN) | 2 2 0 | 4
+- CentoMetriM (I)
+-- Xie Zhenye [N]
+-- Su Bingtian [N]
+- TennisTavoloM (I)
+-- Fan Zhendong [A]
+-- Ma Long [O]
+- CentoMetriF (I)
+-- Wei Yongli [N]
+- TennisTavoloF (I)
+-- Chen Meng [O]
+-- Sun Yingsha [A]
+- SaltoAltoM (I)
+-- Wang Yu [N]
+- TiroArcoF (I)
+-- Yang Xiaolei [N]
+-- Wu Jiaxin [N]
+-- Long Xiaoqing [N]
+
+Moldavia (MDA) | 0 0 0 | 0
+- TiroArcoF (I)
+-- Mirca Alexandra [N]
+
+Narnia (NAR) | 2 0 2 | 4
+- CentoMetriM (I)
+-- Whitfoot Habaccuc [N]
+-- Puddifoot Obo [B]
+- PallacanestroM (S)
+-- Underhill Isembold [B]
+-- Button Vigo [B]
+-- Tuk Samwise [B]
+-- Zaragamba Cerdic [B]
+-- Rumble Isembard [B]
+-- Borrowes Milo [B]
+-- Roper Faramir [B]
+-- Proudfoot Gorhendad [B]
+-- Took Celedor [B]
+-- Brandagamba Grossman [B]
+- FiorettoF (I)
+-- Took Eglantine [O]
+-- Brownlock Cornelia [N]
+- RugbyF (S)
+-- Gammidge Asphodel [O]
+-- Tunnelly Poppy [O]
+-- Twofoot Hilda [O]
+-- Goold Rosamunda [O]
+-- Lothran Cara [O]
+-- Bunce Pansy [O]
+-- Rumble Arabella [O]
+-- Hogpen Selina [O]
+-- Bolger Linda [O]
+
+Algeria (ALG) | 0 0 0 | 0
+- TennisTavoloM (I)
+-- Bouriah Larbi [N]
+
+Germania (GER) | 0 0 1 | 1
+- TiroArcoF (I)
+-- Kroppen Michelle [N]
+-- Unruh Lisa [N]
+-- Schwarz Charline [N]
+- TennisTavoloM (I)
+-- Boll Timo [N]
+-- Ovtcharov Dimitrij [B]
+- CentoMetriF (I)
+-- Pinto Tatjana [N]
+-- Burghardt Alexandra [N]
+- FiorettoF (I)
+-- Ebert Leonie [N]
+
+Malesia (MAS) | 0 0 0 | 0
+- TiroArcoF (I)
+-- Mashayikh Syaquiera [N]
+- CentoMetriF (I)
+-- NabilaAlias Azreen [N]
+
+GranBretaglia (GBR) | 0 0 0 | 0
+- CentoMetriM (I)
+-- Prescod Reece [N]
+- SaltoAltoM (I)
+-- Gale Tom [N]
+- TiroArcoF (I)
+-- Pitman Bryony [N]
+-- Bettles Sarah [N]
+-- Folkard Naomi [N]
+
+Taipei (TPE) | 0 0 0 | 0
+- TiroArcoF (I)
+-- Tan YaTing [N]
+
+Jamaica (JAM) | 1 1 1 | 3
+- CentoMetriF (I)
+-- Jackson Shericka [B]
+-- ThompsonHerah Elaine [O]
+-- FraserPryce ShellyAnn [A]
+
+Svizzera (SUI) | 0 0 0 | 0
+- CentoMetriF (I)
+-- DelPonte Ajla [N]
+-- Cambundji Mujinga [N]
+-- Kora Salome [N]
+
+Brasile (BRA) | 0 1 0 | 1
+- PallavoloF (S)
+-- DeOliveira Caroline [A]
+-- Montibeller Rosamaria [A]
+-- Silva Macris [A]
+-- Ratzke Roberta [A]
+-- BragaGuimaraes Gabriela [A]
+-- Caixeta Tandara [A]
+-- Pereira Natalia [A]
+-- DaSilva AnaCarolina [A]
+-- Rodrigues Fernanda [A]
+-- Oliveira Ana [A]
+-- Brait Camila [A]
+-- Correa AnaBeatriz [A]
+- TennisTavoloM (I)
+-- Calderano Hugo [N]
+-- Tsuboi Gustavo [N]
+
+Serbia (SRB) | 0 0 1 | 1
+- PallavoloF (S)
+-- Busa Bianka [B]
+-- Popovic Mina [B]
+-- Mirkovic Sladjana [B]
+-- Mihajlovic Brankica [B]
+-- Ognjenovic Maja [B]
+-- Bjelica Ana [B]
+-- Aleksic Maja [B]
+-- Rasic Milena [B]
+-- Popovic Silvija [B]
+-- Boskovic Tijana [B]
+-- Milenkovic Bojana [B]
+-- Blagojevic Jelena [B]
+
+Argentina (ARG) | 0 0 1 | 1
+- PallavoloM (S)
+-- Sanchez Matias [B]
+-- Pereyra Federico [B]
+-- Poglajen Cristian [B]
+-- Conte Facundo [B]
+-- Loser Agustin [B]
+-- Danani Santiago [B]
+-- Sole Sebastian [B]
+-- Lima Bruno [B]
+-- Palacios Ezequiel [B]
+-- DeCecco Luciano [B]
+-- Mendez Nicolas [B]
+-- Ramos Martin [B]
+- TennisTavoloM (I)
+-- Alto Gaston [N]
+-- Cifuentes Horacio [N]
+
+Australia (AUS) | 0 0 0 | 0
+- TennisTavoloM (I)
+-- Powell David [N]
+-- Yan Xin [N]
+
+Qatar (QAT) | 1 0 0 | 1
+- SaltoAltoM (I)
+-- Barshim EssaMutaz [O]
+
+PaesiBassi (NED) | 0 0 0 | 0
+- CentoMetriF (I)
+-- VanHunenstijn Marije [N]
+
